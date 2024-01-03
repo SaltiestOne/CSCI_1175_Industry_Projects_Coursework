@@ -1,1 +1,1 @@
-# CSCI_1175_Industry_Projects_Coursework
+Contains my coursework for the Industry Projects course at Southwest Technical College.
